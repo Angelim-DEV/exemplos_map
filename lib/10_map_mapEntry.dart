@@ -3,5 +3,5 @@ void main(){
 
   var notasComBonus = notas.map((nome, nota) => MapEntry(nome,nota+1));
 
-  print(notasComBonus);
+  print(notasComBonus); //{"João":8,"Maria":10}
 }

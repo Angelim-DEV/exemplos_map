@@ -4,5 +4,5 @@ void main(){
     "user2":{"nome":"Carlos","idade":30}
   };
 
-  print(usuarios["user1"]?["nome"]);
+  print(usuarios["user1"]?["nome"]);//Ana
 }
